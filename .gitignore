@@ -74,3 +74,5 @@ report.*.json
 # Arquivos de backup
 *.orig
 *.rej
+
+/generated/prisma
